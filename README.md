@@ -23,5 +23,5 @@ Un script Python simple et efficace pour convertir des fichiers PDF en documents
 ### 1. Cloner ou télécharger le projet
 
 ```bash
-git clone [github.com/rboucheron/html2pdf](https://github.com/rboucheron/html2pdf)
-cd pdf-to-html
+git clone https://github.com/rboucheron/html2pdf
+cd pdf2html
